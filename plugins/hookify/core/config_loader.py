@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Configuration loader for hookify plugin.
 
 Loads and parses .claude/hookify.*.local.md files.
